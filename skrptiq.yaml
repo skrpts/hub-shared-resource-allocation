@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "dcb9cc53-f6bf-4140-a065-ef862783f3e7"
+name: "resource-allocation"
+display_name: "Resource Allocation"
+description: "Optimises team assignments based on skills, availability, and priorities"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-resource-allocation"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
