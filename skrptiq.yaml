@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "dcb9cc53-f6bf-4140-a065-ef862783f3e7"
+id: "e7f14dba-de39-4217-9260-52e100a1d2d3"
 name: "resource-allocation"
 display_name: "Resource Allocation"
 description: "Optimises team assignments based on skills, availability, and priorities"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
