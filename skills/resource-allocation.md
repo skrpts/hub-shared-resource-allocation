@@ -2,7 +2,7 @@
 type: skill
 id: resource-allocation
 title: Resource Allocation
-description: "Optimises team assignments based on skills, availability, and priorities"
+description: "Optimizes team assignments based on skills, availability, and priorities"
 tags: [Production, Planning, Metrics]
 ---
 

@@ -2,8 +2,8 @@
 id: "e7f14dba-de39-4217-9260-52e100a1d2d3"
 name: "resource-allocation"
 display_name: "Resource Allocation"
-description: "Optimises team assignments based on skills, availability, and priorities"
-version: "1.0.2"
+description: "Optimizes team assignments based on skills, availability, and priorities"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T14:47:07.505Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/resource-allocation/security"
